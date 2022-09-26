@@ -5,17 +5,17 @@
         "faturamento": 
         [{
             "dia": 1,
-            "valor": 220,
+            "valor": 221,
             "status": "dia util"
         },
         {
             "dia": 2,
-            "valor": 150,
+            "valor": 151,
             "status": "dia util"
         },
         {
             "dia": 3,
-            "valor": 200,
+            "valor": 201,
             "status": "dia util"
         },
         {
@@ -130,7 +130,7 @@
         },
         {
             "dia": 26,
-            "valor": 100,
+            "valor": 123,
             "status": "dia util"
         },
         {
@@ -145,7 +145,7 @@
         },
         {
             "dia": 29,
-            "valor": 150,
+            "valor": 152,
             "status": "dia util"
         },
         {
@@ -157,16 +157,158 @@
     },
     {
         "mes": "julho",
-        "faturamento": [{
+        "faturamento": 
+        [{
             "dia": 1,
-            "valor": 200,
+            "valor": 201,
             "status": "dia util"
         },
         {
             "dia": 2,
+            "valor": 202,
+            "status": "dia util"
+        },
+        {
+            "dia": 3,
             "valor": 300,
             "status": "dia util"
-        }]
+        },
+        {
+            "dia": 4,
+            "valor": 249,
+            "status": "dia util"
+        },
+        {
+            "dia": 5,
+            "valor": 355,
+            "status": "dia util"
+        },
+        {
+            "dia": 6,
+            "valor": 0,
+            "status": "fim de semana"
+        },
+        {
+            "dia": 7,
+            "valor": 0,
+            "status": "fim de semana"
+        },
+        {
+            "dia": 8,
+            "valor": 195,
+            "status": "dia util"
+        },
+        {
+            "dia": 9,
+            "valor": 212,
+            "status": "dia util"
+        },
+        {
+            "dia": 10,
+            "valor": 155,
+            "status": "dia util"
+        },
+        {
+            "dia": 11,
+            "valor": 183,
+            "status": "dia util"
+        },
+        {
+            "dia": 12,
+            "valor": 140,
+            "status": "dia util"
+        },
+        {
+            "dia": 13,
+            "valor": 0,
+            "status": "fim de semana"
+        },
+        {
+            "dia": 14,
+            "valor": 0,
+            "status": "fim de semana"
+        },
+        {
+            "dia": 15,
+            "valor": 219,
+            "status": "dia util"
+        },
+        {
+            "dia": 16,
+            "valor": 156,
+            "status": "dia util"
+        },
+        {
+            "dia": 17,
+            "valor": 259,
+            "status": "dia util"
+        },
+        {
+            "dia": 18,
+            "valor": 250,
+            "status": "dia util"
+        },
+        {
+            "dia": 19,
+            "valor": 320,
+            "status": "dia util"
+        },
+        {
+            "dia": 20,
+            "valor": 0,
+            "status": "fim de semana"
+        },
+        {
+            "dia": 21,
+            "valor": 0,
+            "status": "fim de semana"
+        },
+        {
+            "dia": 22,
+            "valor": 190,
+            "status": "dia util"
+        },
+        {
+            "dia": 23,
+            "valor": 210,
+            "status": "dia util"
+        },
+        {
+            "dia": 24,
+            "valor": 150,
+            "status": "dia util"
+        },
+        {
+            "dia": 25,
+            "valor": 180,
+            "status": "dia util"
+        },
+        {
+            "dia": 26,
+            "valor": 139,
+            "status": "dia util"
+        },
+        {
+            "dia": 27,
+            "valor": 0,
+            "status": "fim de semana"
+        },
+        {
+            "dia": 28,
+            "valor": 0,
+            "status": "fim de semana"
+        },
+        {
+            "dia": 29,
+            "valor": 189,
+            "status": "dia util"
+        },
+        {
+            "dia": 30,
+            "valor": 199,
+            "status": "dia util"
+        }
+        ]
     }]
     
 }
