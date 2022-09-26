@@ -10,14 +10,14 @@
 <?php
     $indice = 13; //declaração de variavel
     $soma = 0; //declaração de variavel
-    $K = 0; //declaração de variavel
+    $i = 0; //declaração de variavel
 
     //estrutura de repetição
     do //faça
     {
-        $K ++;      //adcionar +1 a variavel $K
-        $soma = $soma + $K;       //soma a variavel $K com a $soma
-    }while ($K < $indice);      //imterrompe a estrutura de repetição quando $K for menor que a varivel $indice
+        $i ++;      //adcionar +1 a variavel $i
+        $soma = $soma + $i;       //soma a variavel $i com a $soma
+    }while ($i < $indice);      //imterrompe a estrutura de repetição quando $i for menor que a varivel $indice
 
     echo "
         <fieldset style='width: 300px;text-align: center; margin: auto;'>

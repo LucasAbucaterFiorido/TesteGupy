@@ -1,7 +1,7 @@
 {
     "faturamentos": 
     [{
-        "mes": "junho",
+        "mes": "Julho",
         "faturamento": 
         [{
             "dia": 1,
@@ -156,7 +156,7 @@
         ]
     },
     {
-        "mes": "julho",
+        "mes": "Agosto",
         "faturamento": 
         [{
             "dia": 1,
